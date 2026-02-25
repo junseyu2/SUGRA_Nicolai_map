@@ -141,4 +141,19 @@ These are imported and assembled in `solve.py` (and also in `prove.py`).
 
 ## Citation
 
-If you use this code or derived outputs, please cite our paper (arXiv identifier to be added after upload).
+If you use this code or any derived outputs, please cite our paper and the archived software release.
+
+- Paper: *arXiv identifier to be added after upload.*
+- Code (paper version): GitHub release **v1.0** (commit **8dea04a**)  
+  https://github.com/junseyu2/SUGRA_Nicolai_map/releases/tag/v1.0
+
+### BibTeX (software)
+```bibtex
+@software{SUGRA_Nicolai_map_v1_0,
+  author  = {Lee, Joon Hyuk and collaborators},
+  title   = {SUGRA\_Nicolai\_map: code for the Nicolai map in pure N=1 supergravity},
+  year    = {2026},
+  version = {v1.0},
+  url     = {https://github.com/junseyu2/SUGRA_Nicolai_map/releases/tag/v1.0},
+  note    = {GitHub release v1.0 (commit 8dea04a)}
+}
